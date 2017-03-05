@@ -1,3 +1,5 @@
+![The Odin Project logo](https://lh3.googleusercontent.com/Wkn0IUCegqQlDEw1_sFOlja1OJcvqFOocIAtXIeR3SqLRyLwTh4VtreTUbNSPA0lQpuq9YE1kVarFblFVxFOnxUUcw_Taptj9E6RW_U_6FSsHVejL7Vg1ubZ9TnD8D_U8wOBGdM)
+
 # Welcome to The Odin Project Curriculum: 
 
 The Odin Project (also known as TOP), is an open-source community for learning full-stack web development. Our mission is to provide a comprehensive curriculum to learn web development for free. We help our students to learn the skills and build the impressive portfolio of projects they need to get hired as a web developer.
